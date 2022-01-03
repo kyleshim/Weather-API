@@ -1,3 +1,14 @@
+### Gaming-Schools-Pandas
+#### <i> An analysis of Heroes of Pymoli and Py City Schools</i>
+
+----------------------
+
+**Description:**
+
+I used Python and the Pandas Library to analyze purchase data for a game and student data for a school district.
+
+<b>Datasets used:</b>
+
 # Python API Homework - What's the Weather Like?
 
 ## Background
